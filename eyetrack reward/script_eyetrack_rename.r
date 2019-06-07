@@ -57,6 +57,7 @@ idfiles <- mutate(idfiles, block = ifelse(block == "", 1, block))
 
 
 # Hacer un nuevo block
+idfiles <- mutate(idfiles, order = row.names(idfiles))
 idfiles <- arrange(idfiles, id, block)
 idfiles <- filter(idfiles, id != "")
 
@@ -71,6 +72,9 @@ idfiles <- filter(idfiles, id != "")
                idfiles$newblock[i] <- 1
           }
      }
+     
+     # Esto porque con el arrange inicial se pierde el orden original
+     idfiles <- arrange(idfiles, order)
      
      # 2358 por ejemplo.... para eso se hace
      filter(idfiles, id == 2358)
