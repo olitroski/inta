@@ -1,0 +1,100 @@
+trial	xdat	lat	fstCorrect	ErrCorr	AS	Count	Desc
+1	132	NA	FALSE	FALSE	AS	-1	moving (4.269 px/60Hz) before target onset
+2	133	240	TRUE	FALSE	AS	1	
+3	132	204	TRUE	FALSE	AS	1	
+4	133	NA	FALSE	FALSE	AS	-1	moving (5.315 px/60Hz) before target onset
+5	133	233	TRUE	FALSE	AS	1	
+6	132	216	TRUE	FALSE	AS	1	
+7	133	186	TRUE	FALSE	AS	1	
+8	133	231	TRUE	FALSE	AS	1	
+9	133	186	TRUE	FALSE	AS	1	
+10	133	317	TRUE	FALSE	AS	1	
+11	132	NA	FALSE	FALSE	AS	-1	moving (14.346 px/60Hz) before target onset
+12	132	240	TRUE	FALSE	AS	1	
+13	133	226	TRUE	FALSE	AS	1	
+14	133	233	TRUE	FALSE	AS	1	
+15	132	110	FALSE	TRUE	AS	2	
+16	132	NA	FALSE	FALSE	AS	-1	moving (17.108 px/60Hz) before target onset
+17	133	260	TRUE	FALSE	AS	1	
+18	133	204	TRUE	FALSE	AS	1	
+19	133	NA	FALSE	FALSE	AS	-1	moving (13.341 px/60Hz) before target onset
+20	133	83	TRUE	FALSE	AS	1	
+21	133	NA	FALSE	FALSE	AS	-1	moving (9.416 px/60Hz) before target onset
+22	133	NA	FALSE	FALSE	AS	-1	moving (5.467 px/60Hz) before target onset
+23	133	NA	FALSE	FALSE	AS	-1	moving (5.028 px/60Hz) before target onset
+24	132	NA	FALSE	FALSE	AS	-1	moving (9.527 px/60Hz) before target onset
+25	133	221	TRUE	FALSE	AS	1	
+26	132	NA	FALSE	FALSE	AS	-1	start pos too far from center fix
+27	132	NA	FALSE	FALSE	AS	-1	moving (12.167 px/60Hz) before target onset
+28	132	243	TRUE	FALSE	AS	1	
+29	132	159	FALSE	TRUE	AS	2	
+30	132	NA	FALSE	FALSE	AS	-1	moving (5.329 px/60Hz) before target onset
+31	133	NA	FALSE	FALSE	AS	-1	average fixpos(181.162500) is off from baseline(130.500000)!
+32	133	NA	FALSE	FALSE	AS	-1	no good saccades
+33	133	555	TRUE	FALSE	AS	1	
+34	132	NA	FALSE	FALSE	AS	-1	moving (21.779 px/60Hz) before target onset
+35	133	144	FALSE	TRUE	AS	2	
+36	132	245	TRUE	FALSE	AS	1	
+37	132	235	TRUE	FALSE	AS	1	
+38	132	218	TRUE	FALSE	AS	1	
+39	133	78	FALSE	TRUE	AS	2	
+40	133	267	TRUE	FALSE	AS	1	
+41	132	186	TRUE	FALSE	AS	1	
+42	132	245	TRUE	FALSE	AS	1	
+43	132	280	TRUE	FALSE	AS	1	
+44	133	211	TRUE	FALSE	AS	1	
+45	133	213	TRUE	FALSE	AS	1	
+46	132	NA	FALSE	FALSE	AS	-1	moving (18.585 px/60Hz) before target onset
+47	133	226	TRUE	FALSE	AS	1	
+48	132	NA	FALSE	FALSE	AS	-1	moving (9.944 px/60Hz) before target onset
+49	132	260	TRUE	FALSE	AS	1	
+50	132	260	TRUE	FALSE	AS	1	
+51	133	77	FALSE	TRUE	AS	2	
+52	133	668	FALSE	FALSE	AS	0	
+53	132	NA	FALSE	FALSE	AS	-1	moving (13.216 px/60Hz) before target onset
+54	133	81	FALSE	TRUE	AS	2	
+55	132	253	TRUE	FALSE	AS	1	
+56	132	NA	FALSE	FALSE	AS	-1	moving (8.924 px/60Hz) before target onset
+57	132	NA	FALSE	FALSE	AS	-1	moving (5.342 px/60Hz) before target onset
+58	133	258	TRUE	FALSE	AS	1	
+59	132	221	FALSE	FALSE	AS	0	
+60	132	222	TRUE	FALSE	AS	1	
+61	133	277	TRUE	FALSE	AS	1	
+62	132	258	TRUE	FALSE	AS	1	
+63	132	248	TRUE	FALSE	AS	1	
+64	132	259	FALSE	TRUE	AS	2	
+65	132	248	TRUE	FALSE	AS	1	
+66	133	275	TRUE	FALSE	AS	1	
+67	132	417	TRUE	FALSE	AS	1	
+68	133	223	FALSE	TRUE	AS	2	
+69	132	NA	FALSE	FALSE	AS	-1	moving (12.549 px/60Hz) before target onset
+70	133	211	TRUE	FALSE	AS	1	
+71	133	233	TRUE	FALSE	AS	1	
+72	132	287	TRUE	FALSE	AS	1	
+73	132	530	TRUE	FALSE	AS	1	
+74	133	294	TRUE	FALSE	AS	1	
+75	132	103	FALSE	TRUE	AS	2	
+76	132	228	TRUE	FALSE	AS	1	
+77	132	280	TRUE	FALSE	AS	1	
+78	132	387	TRUE	FALSE	AS	1	
+79	132	302	FALSE	TRUE	AS	2	
+80	133	NA	FALSE	FALSE	AS	-1	no saccades (getSacs)
+81	132	NA	FALSE	FALSE	AS	-1	blink before target onset
+82	132	NA	FALSE	FALSE	AS	-1	blink before target onset
+83	132	NA	FALSE	FALSE	AS	-1	blink before target onset
+84	132	NA	FALSE	FALSE	AS	-1	blink before target onset
+85	133	NA	FALSE	FALSE	AS	-1	blink before target onset
+86	132	NA	FALSE	FALSE	AS	-1	blink before target onset
+87	133	NA	FALSE	FALSE	AS	-1	blink before target onset
+88	133	NA	FALSE	FALSE	AS	-1	blink before target onset
+89	132	NA	FALSE	FALSE	AS	-1	blink before target onset
+90	132	NA	FALSE	FALSE	AS	-1	blink before target onset
+91	132	NA	FALSE	FALSE	AS	-1	blink before target onset
+92	133	NA	FALSE	FALSE	AS	-1	blink before target onset
+93	133	NA	FALSE	FALSE	AS	-1	blink before target onset
+94	132	NA	FALSE	FALSE	AS	-1	blink before target onset
+95	132	NA	FALSE	FALSE	AS	-1	blink before target onset
+96	133	NA	FALSE	FALSE	AS	-1	blink before target onset
+97	133	NA	FALSE	FALSE	AS	-1	blink before target onset
+98	132	NA	FALSE	FALSE	AS	-1	blink before target onset
+99	132	NA	FALSE	FALSE	AS	-1	blink before target onset
