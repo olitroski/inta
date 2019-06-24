@@ -24,4 +24,6 @@ Ya no hace un Excel por lo que no es necesario tener Rtools y esas cosas, en su 
 > Van archivos de ejemplo para correr el programa
 
 ## Para descarar el script usar este enlace
-["script_anti.R"](https://raw.githubusercontent.com/olitroski/inta/master/ANTI/script_anti.R)
+Hacer clic con el botón derecho y seleccionar **descargar enlace como...** o algo así.
+
+> [**script_anti.R**](https://raw.githubusercontent.com/olitroski/inta/master/ANTI/script_anti.R)
