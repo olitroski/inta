@@ -6,16 +6,16 @@ Este script junta todos los resultados que de la máquina virtual, se puede ejec
 
 Instrucciones:
 
-1.	Poner todos los archivos de resultados en una carpeta, da igual lo que tenga porque el script tomará solo aquellos que contengan en el nombre `NA.trial.txt`
+1.	Poner todos los archivos de resultados en una carpeta, da igual si hay otros archivos en la carpeta porque el script solo tomará aquellos que contengan en el nombre `NA.trial.txt`
 
-2.	Abrir un R o un Rstudio, se puede dentro de la máquina virtual, pero mejor hacerlo fuera.
+2.	Abrir un R o un RStudio, se puede dentro de la máquina virtual, pero mejor hacerlo fuera.
 
 3.	Asegurarse de instalar las librerías necesarias: <br> 
 `install.packages("dplyr")` <br> `install.packages("stringr")`
 
-4.	En el script se indica donde poner la ruta a la carpeta donde estarán los archivos de resultados. Está súper señalizado, de todas formas es en la **linea 15**.
+4.	En el Script se indica donde poner la ruta a la carpeta donde estarán los archivos de resultados. Está súper señalizado, de todas formas es la **linea 15**.
 
-5.	Hacer source
+5.	Hacer source, es decir ejecutar todo el Script **RStudio** tiene un botón para eso (en la esquina superior derecha del script), sino en el menú `Code >> Source`.
 
 El script se va a detener si es que hay algún error, utilizar el ultimo file que muestra la consola para mirar a mano el archivo con problemas. Habían unos con 99 trials que arrojaban error por ejemplo.
 
